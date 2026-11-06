@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "Christoffel's Kitchen",
+    "slug": "christoffels-kitchen",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "plugins": ["expo-font"],
+    "ios": { "supportsTablet": true },
+    "android": {}
+  }
+}
